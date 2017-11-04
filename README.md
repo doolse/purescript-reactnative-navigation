@@ -1,9 +1,9 @@
 # purescript-reactnative-navigation
 
-[![Latest release](https://pursuit.purescript.org/packages/purescript-reactnative/badge)](https://pursuit.purescript.org/packages/purescript-reactnative-navigation)
-[![Travis Build](https://travis-ci.org/doolse/purescript-reactnative.svg?branch=master)](https://travis-ci.org/doolse/purescript-reactnative-navigation)
+[![Latest release](https://pursuit.purescript.org/packages/purescript-reactnative-navigation/badge)](https://pursuit.purescript.org/packages/purescript-reactnative-navigation)
+[![Travis Build](https://travis-ci.org/doolse/purescript-reactnativenavigation.svg?branch=master)](https://travis-ci.org/doolse/purescript-reactnative-navigation)
 
-* Warning this is early days *
+*Warning:* this is no where near a full set of bindings yet
 
 Purescript bindings for [React Navigation](https://reactnavigation.org/)
 
