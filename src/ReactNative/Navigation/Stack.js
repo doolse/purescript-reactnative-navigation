@@ -7,3 +7,12 @@ exports.stackNavigator = function (d) {
         }
     }
 }
+
+exports.setStackNavigationOptions = function (d) {
+    return function (options) {
+        return function (reactClass) {
+            reactClass.navigationOptions = options;
+            return reactClass;
+        }
+    }
+}
