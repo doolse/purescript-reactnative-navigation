@@ -1,12 +1,10 @@
 module ReactNative.Navigation where
 
-import Data.Maybe (Maybe)
 import Effect (Effect)
-import Prelude (Unit, identity)
+import Prelude (Unit)
 import React (ReactClass)
 import ReactNative.Optional (class Optional)
-import Type.Proxy (Proxy(..))
-import Type.Row (class RowToList, Cons, Nil, RLProxy(..), kind RowList)
+import Type.Row (class RowToList, Cons, Nil, kind RowList)
 import Unsafe.Coerce (unsafeCoerce)
 import Prim.Row as R
 
